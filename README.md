@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sable Cantus. You can see some current side projects, notes, and other fun things in the public github. I spend lot of my programming time using small tools and writing programs to help me get work done throughout the day. Such as building reproducible presentations with updatable images, or configuring mass email to send for notifications / follow-ups / etc.
+My name is Sable. You can see some current side projects, notes, and other fun things in the public github. I spend lot of my programming time using small tools and writing programs to help me get work done throughout the day. Such as building reproducible presentations with updatable images, or configuring mass email to send for notifications / follow-ups / etc.
 
 Some tools I love and use daily (from the terminal) are python3, pandoc, vim, awk, bash, curl, nmap, wget, ssh, html/css, and so much more.
 
