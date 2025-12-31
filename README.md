@@ -4,7 +4,7 @@ My name is Sable. Here are some current side projects, notes, and other fun thin
 
 #terminal #vim #python #aws #cloudflare #vibecode #llms
 
-The Mt. SAC [CISW repository is here]([https://github.com/msac-cisw/](https://github.com/orgs/msac-cisw/repositories)).
+The Mt. SAC [CISW repository is here](https://github.com/orgs/msac-cisw/repositories).
 
 *Sable*
 
