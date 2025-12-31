@@ -4,8 +4,8 @@ My name is Sable. Here are some current side projects, notes, and other fun thin
 
 #terminal #vim #python
 
-My [CISW course github is here](https://github.com/msac-cisw/).
+The Mt. SAC [CISW repository is here]([https://github.com/msac-cisw/](https://github.com/orgs/msac-cisw/repositories)).
 
 *Sable*
 
-[cantus.us](https://cantus.us/)
+🌎 [cantus.us](https://cantus.us/)
