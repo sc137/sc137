@@ -1,22 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Sable. You can see some current side projects, notes, and other fun things in the public github. I spend lot of my programming time using small tools and writing programs to help me get work done throughout the day. Such as building reproducible presentations with updatable images, or configuring mass email to send for notifications / follow-ups / etc.
+My name is Sable. Here are some current side projects, notes, and other fun things to explore. I spend lot of my programming time using small tools and writing programs to help me get work done throughout the day.
 
-Some tools I love and use daily (from the terminal) are python, vim, pandoc, awk, bash, curl, nmap, wget, ssh, html, css, js, php, chatgpt, claude, gemini, vs code, zed,  - and so much more.
+#terminal #vim #python
+
+My [CISW course github is here](https://github.com/msac-cisw/).
 
 *Sable*
 
-<!--
-**sc137/sc137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cantus.us](https://cantus.us/)
